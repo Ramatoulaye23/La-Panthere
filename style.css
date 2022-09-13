@@ -76,9 +76,7 @@ a{
     background-size: auto!important;
 }
 
-.bg-repeat {
-    background: repeat;
-}
+
 
 .bg-t-edge {
     background: top no-repeat;
@@ -658,7 +656,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000!important;
 }
 
 .container {
@@ -672,7 +670,11 @@ a {
 .hero-bloc-text-sub {
     font-size: 36px;
 }
-
+.text-center p {
+    font-size: 18px;
+    color: #F3976C !important;
+    font-weight: bold;
+}
 .statement-bloc-text {
     line-height: 26px;
     font-style: italic;
@@ -730,6 +732,7 @@ h3 {
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
+    line-height: 1.4em;
 }
 
 .med-width-whitespace {
@@ -792,7 +795,7 @@ h4 {
 
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {

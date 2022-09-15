@@ -687,6 +687,7 @@ a {
 
 p {
     font-size: 14px;
+    font-weight: bold;
    }
 ul{
     font-size: 18px;
@@ -696,6 +697,7 @@ ul{
     
 li {
     font-size: 14px;
+    font-weight: bold;
    
 }
 .tight-width-whitespace {
